@@ -31,7 +31,7 @@ function corazon2() {
     contenedor.appendChild(corazon);
 
     setTimeout(() => {
-        window.location.href = "code/flaquitamasmegusta.html";
+        window.location.href = "code/fotosdepayasa.html";
     }, 50);
 }
 function corazon3() {
@@ -49,6 +49,6 @@ function corazon3() {
     contenedor.appendChild(corazon);
 
     setTimeout(() => {
-        window.location.href = "code/flaquitamasmegusta.html";
+        window.location.href = "code/fotosquemeencantan.html";
     }, 50);
 } 
