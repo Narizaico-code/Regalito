@@ -135,19 +135,6 @@ h3 {
     clip-path: url(#clip-heart);
 }
 
-* {
-    font-family: 'Julietalinda', sans-serif;
-}
-
-@font-face {
-    font-family: 'Julietalinda';
-    src: url('..style/Julietalinda-Regular.ttf') format('truetype'),
-        url('..style/Julietalinda-Regular.otf') format('opentype');
-    font-style: normal;
-    font-weight: normal;
-    font-display: swap;
-}
-
 header {
     font-size: 18px;
 }
